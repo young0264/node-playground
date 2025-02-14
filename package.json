@@ -1,0 +1,15 @@
+{
+  "name": "flavour-node",
+  "version": "1.0.0",
+  "description": "node server for flavour-ai",
+  "main": "Vue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
